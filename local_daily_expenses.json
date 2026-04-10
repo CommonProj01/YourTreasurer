@@ -1,0 +1,50 @@
+[
+  {
+    "category": "Junk Food",
+    "amount": 100.0,
+    "spent_at": "ice creme",
+    "is_loan": false,
+    "friend_email": null,
+    "relationship": null,
+    "created_at": "2026-04-10T09:16:02.221231",
+    "created_by": "guest",
+    "username": "guest",
+    "_id": "e6060101-89d3-43ea-93ed-132132be1585"
+  },
+  {
+    "category": "Educational",
+    "amount": 100000.0,
+    "spent_at": "Studies",
+    "is_loan": false,
+    "friend_email": null,
+    "relationship": null,
+    "created_at": "2026-04-10T09:16:13.439976",
+    "created_by": "guest",
+    "username": "guest",
+    "_id": "2c879aa1-8538-40d4-a89c-2b5dba656f19"
+  },
+  {
+    "category": "Travelling",
+    "amount": 20000.0,
+    "spent_at": "cab",
+    "is_loan": false,
+    "friend_email": null,
+    "relationship": null,
+    "created_at": "2026-04-10T09:16:31.730514",
+    "created_by": "guest",
+    "username": "guest",
+    "_id": "4f5cf4a1-5df0-4cae-996c-dd495a914367"
+  },
+  {
+    "category": "Lifestyle",
+    "amount": 2000.0,
+    "spent_at": "clothes",
+    "is_loan": false,
+    "friend_email": null,
+    "relationship": null,
+    "created_at": "2026-04-10T09:16:43.671049",
+    "created_by": "guest",
+    "username": "guest",
+    "_id": "ab31bd06-5981-40a9-856a-7cf102349926"
+  }
+]
